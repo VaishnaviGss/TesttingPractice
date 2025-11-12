@@ -1,1 +1,2 @@
-test("this message will print if the test is failed", () => {});
+// main branch change
+console.log("Hello from main");
