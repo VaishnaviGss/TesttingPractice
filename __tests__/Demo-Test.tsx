@@ -1,1 +1,2 @@
-test("this message will print if the test is failed", () => {});
+// jest-basics branch change
+console.log("Hello from jest-basics");
